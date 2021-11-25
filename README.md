@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @call-of-oni
-- 👀 I’m interested in             mystery of life
+- 👀 I’m interested in             the mystery of life
 - 🌱 I’m currently learning        DeFi
 - 💞️ I’m looking to collaborate on DApps
 
